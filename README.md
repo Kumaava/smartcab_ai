@@ -19,3 +19,6 @@ In a terminal or command window, navigate to the top-level project directory `sm
 ```python -m smartcab.agent```
 
 This will run the `agent.py` file and execute your agent code.
+
+This the evaluation of the final model 
+<img width="942" alt="screen shot 2017-08-23 at 3 19 15 pm" src="https://user-images.githubusercontent.com/11708565/29610014-8c7b0192-8816-11e7-9d29-708645b3ad73.png">
